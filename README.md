@@ -1,5 +1,3 @@
-# Hi there, I'm Akira Shirahama
-
 ### Solution Architect | Full-Stack Developer | AI-Driven Development Pioneer
 
 > Transforming ambiguous challenges into concrete, high-value technical solutions
